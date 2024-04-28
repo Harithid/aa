@@ -1,0 +1,17 @@
+nav.navbar{
+	border-radius: 0px;
+}
+
+.btn, .card, input{
+
+	border-radius: 0px;
+}
+
+.badan{
+	min-height: 600px;
+}
+
+body {
+	background:url(../../gambar/sistem/bg.webp);
+	font-size: 14.5px;
+}
